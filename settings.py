@@ -1,1 +1,1 @@
-print "settings"
+print "feature"
